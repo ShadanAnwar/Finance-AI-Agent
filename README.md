@@ -4,6 +4,14 @@ This application leverages multiple AI agents powered by Groq's Llama models to 
 
 ---
 
+## Deployed Application
+
+You can access the deployed application using the following link:
+
+[Multi-Agent AI Application](https://finance-ai-agent-gnge.onrender.com)
+
+---
+
 ## Features
 
 - **Web Search Agent**
@@ -22,12 +30,6 @@ This application leverages multiple AI agents powered by Groq's Llama models to 
   - Removes unnecessary system output and displays clean, meaningful responses.
 
 ---
-
-## Deployed Application
-
-You can access the deployed application using the following link:
-
-[Multi-Agent AI Application](https://finance-ai-agent-gnge.onrender.com)
 
 ## Installation
 
