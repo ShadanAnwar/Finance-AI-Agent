@@ -1,7 +1,5 @@
 phidata
 streamlit
-tying
-re
 python-dotenv
 yfinance
 packaging
