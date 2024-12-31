@@ -123,12 +123,6 @@ Contributions are welcome! If you'd like to improve or extend this app, follow t
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 
 - **Groq AI** for providing powerful Llama models.
